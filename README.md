@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jamesy
+- 👀 I’m interested in School
+- 🌱 I’m currently learning HTML, CCS, JS and PY
+- 💞️ I’m looking to collaborate on All Work
+- 📫 How to reach me N/A
